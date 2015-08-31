@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'resuhost',
-			'username'  => 'root',
-			'password'  => 'password',
+			'database'  => 'resuu',
+			'username'  => 'resuu',
+			'password'  => 'ZK3T5aCX6qlCe2BAkkHJextW',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
